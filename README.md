@@ -11,6 +11,7 @@
 <br />
 
 ## Preview
+Plots created with matplotlib and seaborn
 
 | Date                |   High |    Low |   Open |   Close |     Volume |   Adj Close |
 |:--------------------|-------:|-------:|-------:|--------:|-----------:|------------:|
@@ -23,5 +24,8 @@
 ![Bar plot for the standard deviation](barplot_std.png?raw=true "Bar plot for the standard deviation")
 
 ![Closing price](closing_price_faang.png?raw=true "Closing price")
+
+## Interactive plots
+Interactive plots with plotly and cufflinks
 
 ![Plotly animation](LpYKDgsGmM.gif?raw=true "Plotly animation")
