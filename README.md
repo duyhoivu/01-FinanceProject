@@ -23,3 +23,5 @@
 ![Bar plot for the standard deviation](barplot_std.png?raw=true "Bar plot for the standard deviation")
 
 ![Closing price](closing_price_faang.png?raw=true "Closing price")
+
+![Plotly animation](LpYKDgsGmM.gif?raw=true "Plotly animation")
