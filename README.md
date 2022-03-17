@@ -4,7 +4,7 @@
   Stock prices data exploration
 </h1>
 
-<p align="center">
+<p align="left">
   Using data analysis tools (pandas, seaborn) to create some interesting visualisation of the stock prices in the last 10 years for FAANG companies.
 </p>
 
