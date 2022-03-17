@@ -12,3 +12,4 @@
 
 ## Preview
 
+![Bar plot for the standard deviation](barplot_std.png?raw=true "Bar plot for the standard deviation")
